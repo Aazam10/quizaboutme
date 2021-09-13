@@ -8,7 +8,7 @@ var questionOne={
 }
 
 var questionTwo={
-  question:"In which city did I coplete my graduation?\na. Pune\nb. Mumbai\nc. Nagpur \n",
+  question:"In which city did I complete my graduation?\na. Pune\nb. Mumbai\nc. Nagpur \n",
   
   answer:"Pune"
 }
