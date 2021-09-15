@@ -1,1 +1,1 @@
-A CLI quiz about to get familiarize with nodejs and quiz my friends about me.
+A CLI quiz  to get familiarize with nodejs and quiz my friends about me.
